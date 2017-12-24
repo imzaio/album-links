@@ -1,6 +1,6 @@
 # BluGuitar
 
-![BluGuitar Jan Mittendorp](../img/8ff7344fc516fd1cb8110e02a814734de3d0d56f.jpeg)
+![BluGuitar Jan Mittendorp](../img/BluGuitar_160x160.jpeg)
 >Jan Mittendorp
 
 [![멜론](../img/mini_melon.png)](http://m.app.melon.com/album/music.htm?albumId=10120923)
